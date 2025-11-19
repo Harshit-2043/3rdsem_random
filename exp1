@@ -1,0 +1,5 @@
+const math=require('./EXPERMIENTS/EXP1');
+const mathutil= require('./EXPERMIENTS/exp2');
+console.log(math.add(5, 3)); // Output: 8
+console.log(math.sub(5, 3)); // Output: 2
+console.log(mathutil.basic.add(5,4));
